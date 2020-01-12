@@ -1,0 +1,49 @@
+@media (max-device-width:640px) {
+
+  .main-nav-bottom {
+    width: 100%;
+  }
+
+  .hero {
+    height: 150px;
+
+  }
+
+  .shop {
+    flex-direction: column;
+    margin-left: 8%;
+  }
+
+  .main-nav img {
+    height: 2rem;
+  }
+
+  h1 {
+    font-size: 12px;
+        margin-bottom: 40px;
+  }
+
+  .singleproduct {
+    margin-right: 200px;
+  }
+
+  .singleproduct img {
+    height: 15rem;
+  }
+
+  .productcta {
+    font-size: 15px;
+    padding: 10px 15px;
+  }
+  .productcta-hero{
+    margin-right: 48%;
+    padding: 1px 5px;
+}
+  }
+
+footer{
+  align-items: center;
+
+}
+
+}
